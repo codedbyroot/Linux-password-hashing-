@@ -63,17 +63,12 @@ All organizations should avoid weak passwords because they are vulnerable to off
 
 ### Viewing the Linux Password Files
 
-![Shadow File](images/shadow-file.png)
+![Shadow File](images/shadow-passwd-comparison(1).png)
 
-### Identifying an MD5 Hash
+![Hash Identifier](images/hash-identifier-md5(1).png)
 
-![Hash Identifier](images/hash-identifier.png)
+![Hashcat](images/hashcat-md5-success(1).png)
 
-### Cracking an MD5 Password with Hashcat
-
-![Hashcat](images/hashcat-md5.png)
-
----
 
 ## What I Learned
 
