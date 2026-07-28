@@ -1,5 +1,5 @@
 # Linux-password-hashing-and-cracking
-T
+
 ## Overview This project demonstrates Linux password storage, password hash identification, and password cracking techniques in a controlled lab environment.  
 ** Disclaimer: This project was completed in an authorized academic environment for educational purposes only. 
 
@@ -58,6 +58,20 @@ This project reinforced the importance of:
 - Limiting weak dictionary-based passwords
 
 All organizations should avoid weak passwords because they are vulnerable to offline dictionary attacks using publicly available wordlists.
+
+## Screenshots
+
+### Viewing the Linux Password Files
+
+![Shadow File](images/shadow-file.png)
+
+### Identifying an MD5 Hash
+
+![Hash Identifier](images/hash-identifier.png)
+
+### Cracking an MD5 Password with Hashcat
+
+![Hashcat](images/hashcat-md5.png)
 
 ---
 
